@@ -1,7 +1,7 @@
 # MaintainTeam
 > We, Maintain ...
 
-***A volunteer organization that maintain abandoned projects & merging various of forks of popular projects***
+***A volunteer organization that maintain abandoned projects & merging various forks of popular projects***
 
 ### Current Maintaining Projects
 - [LastPipeBender](https://github.com/MaintainTeam/LastPipeBender) (NewPipe + PipePipe + BraveNewPipe + Tubular)
