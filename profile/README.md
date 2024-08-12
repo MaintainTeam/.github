@@ -4,7 +4,7 @@
 **A volunteer organization that:**
 1. **Maintain** abandoned projects
 2. **Merge** various forks of popular projects
-3. Help project to be more **accessible** & **reachable**
+3. Help project to be more **accessible** & **reachable** & **free**
 
 <hr><br>
 <!--################################
@@ -57,17 +57,21 @@ We merge various forks of populer projects in all Git services and provide more 
 ##############---3---###############
 #################################-->
 
-### 3. Projects That We Have Made More Accessible and Reachable
+### 3. Projects That We Have Made More Accessible, Reachable and Free (as in Freedom)
 > Hey, Where is the Executable !?<br>
-We help projects with CI/CD process and for publishing on F-Droid/Flathub etc.
+We help projects with CI/CD process and for publishing on F-Droid/Flathub etc. with removing proprietary libraries
 
 <details><summary>
-<a href="https://github.com/MaintainTeam/HabiticaAndroidFOSS">Habitica Android FOSS</a> | Status: <b>Future Plan</b>/<em>Private</em> | Maintainer: <a href="https://github.com/asandikci">@asandikci</a>
+<a href="https://github.com/MaintainTeam/HabiticaAndroidFOSS">Habitica Android FOSS</a> | Status: <b>Future Plan</b>/<em>Private</em> | Maintainer: <a href="#help-us-">No Maintainer!</a>
+</summary>
+
+  - [Original Version](https://github.com/HabitRPG/habitica-android/) (with proprietary components) 
+</details><details><summary>
+<a href="https://github.com/MaintainTeam/CashewFOSS">Cashew FOSS</a> | Status: <b>Future Plan</b>/<em>Private</em> | Maintainer: <a href="https://github.com/asandikci">@asandikci</a>
 </summary>
 
   - [Original Version](https://github.com/HabitRPG/habitica-android/) (with proprietary components) 
 </details>
-  
 
 
 <br><hr>
