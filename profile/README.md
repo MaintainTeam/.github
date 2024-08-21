@@ -70,8 +70,7 @@ We help projects with CI/CD process and for publishing on F-Droid/Flathub etc. w
 <a href="https://github.com/MaintainTeam/CashewFOSS">Cashew FOSS</a> | Status: <b>Future Plan</b>/<em>Private</em> | Maintainer: <a href="#help-us-">No Maintainer!</a>
 </summary>
 
-- .
-
+- [Original Version](https://github.com/jameskokoska/Cashew) (with proprietary components)
 </details>
 
 
@@ -79,11 +78,12 @@ We help projects with CI/CD process and for publishing on F-Droid/Flathub etc. w
 
 ### Useful Links
 - See [Alternatives](https://alternativeto.net) for an App/Project !
+- See if a project is [well maintained or not](https://isitmaintained.com/)
 
 <!--
 ### Help Us !
 - Apply to maintain a project: [Apply](https://form.maintainteam.org/apply)
-- Help with translatison: [Translate on Weblate](https://translate.maintainteam.org)
+- Help with translations: [Translate on Weblate](https://translate.maintainteam.org)
 - Help with minor fixes: [Inspect Bugs](https://prman.maintainteam.org/issues?services=all&projects=all&type=minor) # Project Manager for organizing all issues/PR's in git services
 - Buy us a Coffee: [LibrePay](link) | [OpenCollective](link) | [Other Ways to Donate](https://maintainteam.org/donate)
 -->
