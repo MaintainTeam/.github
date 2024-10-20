@@ -47,7 +47,8 @@ We merge various forks of populer projects in all Git services and provide more 
 </summary>
 
   - Main Project: [Newpipe](https://github.com/TeamNewPipe/NewPipe)
-  - Combined Forks: [Tubular](https://github.com/polymorphicshade/Tubular) + [BraveNewPipe](https://github.com/bravenewpipe/NewPipe) (WIP) + [PipePipe](https://github.com/InfinityLoop1308/PipePipe/) (Future Plan)
+  - Combined Forks: [Tubular](https://github.com/polymorphicshade/Tubular) + [BraveNewPipe](https://github.com/bravenewpipe/NewPipe) (Future Plan)
+  - Feature Stack (applications to get the features to be implemented): [PipePipe](https://github.com/InfinityLoop1308/PipePipe/) (Future Plan) + [SmartTube](https://github.com/yuliskov/SmartTube) (Future Plan)
   - Sub Projects: [LastPipeExtractor](https://github.com/MaintainTeam/LastPipeExtractor/)
 </details>
 
