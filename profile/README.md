@@ -22,10 +22,13 @@ NOTE: LINKS ARE NOT READY YET ! USE MATRIX !
 ##############---1---###############
 #################################-->
 
+<details><summary>
+  
 ### 1. Maintained Abandoned Projects 
 > Don't Worry, We Are Maintaining This !<br>
 We maintain and continue to develop abandoned projects
 
+</summary>
 
 <details><summary>
 <a href="https://github.com/MaintainTeam/Hypatia">Hypatia</a> | Maintainer: <a href="#help-us-"><b>Looking for a Maintainer!</b></a>
@@ -37,19 +40,9 @@ We maintain and continue to develop abandoned projects
 </summary>
 
   - [Abandoned Old Version](https://github.com/4nubhav/WhatsDeleted) 
-</details><details><summary>
-<a href="https://github.com/MaintainTeam/OpenSondage">OpenSondage</a> | Maintainer: <a href="#help-us-"><b>Looking for a Maintainer!</b></a>
-</summary>
-
-  - [Abandoned Old Version (FramaDate)](https://framagit.org/framasoft/framadate/)
-  - [Original Oldest Version](https://github.com/leblanc-simon/OpenSondage)
-</details><details><summary>
-<a href="https://github.com/MaintainTeam/OsmNearby">OsmNearby</a> | Maintainer: <a href="#help-us-"><b>Looking for a Maintainer!</b></a>
-</summary>
-
-  - [Abandoned Old Version](https://github.com/Teester/Whats-Nearby)
 </details>
 
+</details>
 <br>
 <!--################################
 ##############---2---###############
@@ -75,25 +68,45 @@ We merge various forks of populer projects in all Git services and provide more 
 ##############---3---###############
 #################################-->
 
-### 3. Projects That We Have Made More Accessible, Reachable and Free (as in Freedom)
+<!-- ### 3. Projects That We Have Made More Accessible, Reachable and Free (as in Freedom)
 > Hey, Where is the Executable !?<br>
-We help projects with CI/CD process and for publishing on F-Droid/Flathub etc. with removing proprietary libraries
-
-<details><summary>
-<a href="https://github.com/MaintainTeam/HabiticaAndroidFOSS">Habitica Android FOSS</a> | Maintainer: <a href="#help-us-"><b>Looking for a Maintainer!</b></a>
-</summary>
-
-  - [Original Version](https://github.com/HabitRPG/habitica-android/) (with proprietary components) 
-</details><details><summary>
-<a href="https://github.com/MaintainTeam/CashewFOSS">Cashew FOSS</a> | Maintainer: <a href="#help-us-"><b>Looking for a Maintainer!</b></a>
-</summary>
-
-- [Original Version](https://github.com/jameskokoska/Cashew) (with proprietary components)
-</details>
-
+We help projects with CI/CD process and for publishing on F-Droid/Flathub etc. with removing proprietary libraries 
+--> 
 
 <br>
 
 ### Useful Links
 - See [Alternatives](https://alternativeto.net) for an App/Project !
 - See if a project is [well maintained or not](https://isitmaintained.com/)
+
+
+<br>
+<details><summary>Not Maintained Apps List | Looking for Maintainer</summary>
+
+  
+<details><summary>
+OpenSondage | Maintainer: <a href="#help-us-"><b>Looking for a Maintainer!</b></a>
+</summary>
+
+  - [Abandoned Old Version (FramaDate)](https://framagit.org/framasoft/framadate/)
+  - [Original Oldest Version](https://github.com/leblanc-simon/OpenSondage)
+</details><details><summary>
+OsmNearby | Maintainer: <a href="#help-us-"><b>Looking for a Maintainer!</b></a>
+</summary>
+
+  - [Abandoned Old Version](https://github.com/Teester/Whats-Nearby)
+</details>
+
+<details><summary>
+Habitica Android FOSS | Maintainer: <a href="#help-us-"><b>Looking for a Maintainer!</b></a>
+</summary>
+
+  - [Original Version](https://github.com/HabitRPG/habitica-android/) (with proprietary components) 
+</details><details><summary>
+Cashew FOSS | Maintainer: <a href="#help-us-"><b>Looking for a Maintainer!</b></a>
+</summary>
+
+- [Original Version](https://github.com/jameskokoska/Cashew) (with proprietary components)
+</details>
+
+</details>
